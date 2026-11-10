@@ -6,11 +6,11 @@
 ##############################################################
 
 #TODO: Fill up the contents below in order to reference your assignment 3 git contents
-AESD_ASSIGNMENTS_VERSION = '#COMMIT VERSION NUMBER'
+AESD_ASSIGNMENTS_VERSION = d05a46c12fccfedf3a4095400394f4be351d240f
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
 # Your site should start with git@github.com:
-AESD_ASSIGNMENTS_SITE = '#GITHUB REPOSITORY LINK'
+AESD_ASSIGNMENTS_SITE = git@github.com:YassineOABA/aeld-assignment-3-and-later.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
